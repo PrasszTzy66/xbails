@@ -13,7 +13,7 @@
         "url": "git+https://github.com/PrasszTzy66/xbails.git"
     },
     "license": "MIT",
-    "author": "VinnxsynC",
+    "author": "PrassTzy",
     "main": "lib/index.js",
     "files": [
         "lib/**/*",
